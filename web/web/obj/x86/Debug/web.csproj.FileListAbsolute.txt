@@ -1,0 +1,10 @@
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.rxtmg
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.rxtst
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.exe.config
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.xml
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.exe
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\web.pdb
+E:\HOC\2018-2019\Kiem_Thu\web\web\bin\Debug\Ranorex.Core.Resolver.dll
+E:\HOC\2018-2019\Kiem_Thu\web\web\obj\x86\Debug\web.csprojResolveAssemblyReference.cache
+E:\HOC\2018-2019\Kiem_Thu\web\web\obj\x86\Debug\web.exe
+E:\HOC\2018-2019\Kiem_Thu\web\web\obj\x86\Debug\web.pdb

@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>web</name>
+    </assembly>
+    <members>
+        <member name="T:web.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:web.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:web.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording1.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording10">
+             <summary>
+            The Recording10 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording10.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording10.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording10.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording10.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording10.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording10.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording10.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording2">
+             <summary>
+            The Recording2 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording2.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording3">
+             <summary>
+            The Recording3 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording3.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording3.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording3.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording3.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording3.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording3.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording3.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording4">
+             <summary>
+            The Recording4 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording4.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording4.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording4.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording4.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording4.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording4.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording4.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording5">
+             <summary>
+            The Recording5 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording5.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording5.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording5.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording5.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording5.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording5.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording5.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording6">
+             <summary>
+            The Recording6 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording6.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording6.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording6.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording6.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording6.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording6.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording6.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording7">
+             <summary>
+            The Recording7 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording7.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording7.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording7.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording7.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording7.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording7.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording7.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording8">
+             <summary>
+            The Recording8 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording8.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording8.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording8.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording8.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording8.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording8.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording8.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.recodermodul.Recording9">
+             <summary>
+            The Recording9 recording.
+             </summary>
+        </member>
+        <member name="F:web.recodermodul.Recording9.repo">
+            <summary>
+            Holds an instance of the global::web.webRepository repository.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording9.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording9.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:web.recodermodul.Recording9.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:web.recodermodul.Recording9.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:web.recodermodul.Recording9.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:web.recodermodul.Recording9.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:web.webRepository">
+            <summary>
+            The class representing the webRepository element repository.
+            </summary>
+        </member>
+        <member name="M:web.webRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:web.webRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the webRepository element repository.
+            </summary>
+        </member>
+        <member name="P:web.webRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:web.webRepository.ĐăngNhậpSachMềm">
+            <summary>
+            The ĐăngNhậpSachMềm folder.
+            </summary>
+        </member>
+        <member name="T:web.webRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:web.webRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:web.webRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.ChatSection">
+            <summary>
+            The ChatSection item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.ChatSectionInfo">
+            <summary>
+            The ChatSection item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ApplicationUnderTestAppFolder.ContentBound">
+            <summary>
+            The ContentBound folder.
+            </summary>
+        </member>
+        <member name="T:web.webRepositoryFolders.ContentBoundFolder">
+            <summary>
+            The ContentBoundFolder folder.
+            </summary>
+        </member>
+        <member name="M:web.webRepositoryFolders.ContentBoundFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ContentBound  folder.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.KiểmThử">
+            <summary>
+            The KiểmThử item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.KiểmThửInfo">
+            <summary>
+            The KiểmThử item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.ĐăngNhập">
+            <summary>
+            The ĐăngNhập item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.ĐăngNhậpInfo">
+            <summary>
+            The ĐăngNhập item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.DivTagNhắnTinTraoĐổi">
+            <summary>
+            The DivTagNhắnTinTraoĐổi item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.DivTagNhắnTinTraoĐổiInfo">
+            <summary>
+            The DivTagNhắnTinTraoĐổi item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.LớpHọcCủaToi">
+            <summary>
+            The LớpHọcCủaToi item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.LớpHọcCủaToiInfo">
+            <summary>
+            The LớpHọcCủaToi item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.GửiTinNhắn">
+            <summary>
+            The GửiTinNhắn item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.GửiTinNhắnInfo">
+            <summary>
+            The GửiTinNhắn item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.ButtonTagGửi">
+            <summary>
+            The ButtonTagGửi item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.ButtonTagGửiInfo">
+            <summary>
+            The ButtonTagGửi item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.SpanTagAbc">
+            <summary>
+            The SpanTagAbc item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ContentBoundFolder.SpanTagAbcInfo">
+            <summary>
+            The SpanTagAbc item info.
+            </summary>
+        </member>
+        <member name="T:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder">
+            <summary>
+            The ĐăngNhậpSachMềmAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ĐăngNhậpSachMềm  folder.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder.Commit">
+            <summary>
+            The Commit item.
+            </summary>
+        </member>
+        <member name="P:web.webRepositoryFolders.ĐăngNhậpSachMềmAppFolder.CommitInfo">
+            <summary>
+            The Commit item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

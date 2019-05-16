@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="08b2572d-8eb6-428a-b6ed-229d2c24f324"
+mode="Global"
+rxversion="9.0">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording4"
+	namespace="web.recodermodul">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<keysequenceitem
+		KeySequence="nguyen xuan nam"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		presstime="100ms"
+		searchpropertyid="1ff9d46c-2adb-4f12-a968-d62af514aed9">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="a7a6f488-bb15-422e-8d18-0f85ae49a0dd"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='hoclieu.sachmem.vn']//div[#'sidebar-wrapper']/?/?/input[@type='text']
+				</path>
+			</info>
+		</keysequenceitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="False"
+		searchpropertyid="ab3cddc2-ca56-49cd-a4c9-9312db867613">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="a7a6f488-bb15-422e-8d18-0f85ae49a0dd"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='hoclieu.sachmem.vn']//div[#'sidebar-wrapper']/?/?/input[@type='text']
+				</path>
+			</info>
+			<matchname>
+				Value
+			</matchname>
+			<matchvalue>
+				nguyen xuan nam
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="2eae6688-75ff-4819-a645-68ae8b4cb557"
+	name="webRepository"
+	relativepath="..\webRepository.rxrep"
+	rxversion="9.0">
+		<codegen
+		classname="webRepository"
+		namespace="web">
+		</codegen>
+		<rootfolder
+		id="c1e34ae3-1882-45c6-b165-aea30d0ab8a6"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording4.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

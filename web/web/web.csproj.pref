@@ -1,0 +1,18 @@
+﻿<Properties>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="web.rxtst" />
+    <Element value="recodermodul\Recording3.rxrec" />
+    <Element value="recodermodul\Recording4.rxrec" />
+    <Element value="recodermodul\Recording5.rxrec" />
+    <Element value="recodermodul\Recording6.rxrec" />
+    <Element value="recodermodul\Recording1.rxrec" />
+    <Element value="recodermodul\Recording7.rxrec" />
+    <Element value="recodermodul\Recording8.rxrec" />
+    <Element value="recodermodul\Recording9.rxrec" />
+    <Element value="recodermodul\Recording10.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>
